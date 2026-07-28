@@ -116,7 +116,7 @@ nav li:first-child a{
 }
 .background{
      margin-top: 2rem;
-     background-image: url(/img/Frame\ 7.jpg);
+     background-image: url(./img/Frame\ 7.jpg);
      min-height: 345px;
      background-size: cover;
      background-position: center;
@@ -246,7 +246,7 @@ nav li:first-child a{
 }
 .follw-us{
      margin-top: 59px;
-     background-image: url(/img/Screenshot\ 2026-07-27\ 111146.png);
+     background-image: url(./img/Screenshot\ 2026-07-27\ 111146.png);
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
